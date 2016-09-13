@@ -16,6 +16,8 @@
 });*/
 
 Route::get('helloctrl', 'Helloctrl@index');
+Route::get('slothsctrl', 'slothsctrl@getSlothsreview');
+
 
 
 Route::get('/hello', function () {
@@ -25,3 +27,10 @@ Route::get('/hello', function () {
 Route::get('/',function() {
     return view('welcome');
 });
+Route::get('/sloth', function () {
+    return view('sloth');
+});
+
+//Route::get('/sloth', function () {
+//    return view('sloth');
+//});

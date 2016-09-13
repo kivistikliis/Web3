@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Sloths</title>
 
         <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -53,7 +53,7 @@
                     
 
                     <div class="links"><ul>
-                        <li><a href="../public">Go home</a></li> </ul></div></div>
+                        <li><a href="../">Go home</a></li> </ul></div></div>
 
 <!--
                 <div class="content">

@@ -81,7 +81,7 @@
                 <div class="links">
                     <a href="hello">Liis view</a>
                     <a href="helloctrl">Liis ctrl</a>
-                    <a href="">Empty</a>
+                    <a href="slothsctrl">Sloths</a>
                     <a href="">Empty</a>
                     
                 </div>
